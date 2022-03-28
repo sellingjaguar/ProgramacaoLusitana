@@ -90,5 +90,5 @@
 #define seno_hiperbolico senh
 #define tangente_hiperbolica tanh
 #define arcosseno_hiperbolico acosh
-#define arcsenno_hiperbolico asenh
+#define arcseno_hiperbolico asenh
 #define arctangente_hiperbolica atanh

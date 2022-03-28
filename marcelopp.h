@@ -18,6 +18,7 @@
 #define caracter char
 #define externo extern
 #define devolve return
+#define devolver return
 #define une union
 #define constante const
 #define flutuante float
@@ -92,3 +93,6 @@
 #define arcosseno_hiperbolico acosh
 #define arcseno_hiperbolico asenh
 #define arctangente_hiperbolica atanh
+
+#define imprimirf printf
+#define lerf scanf

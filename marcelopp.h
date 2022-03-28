@@ -74,3 +74,21 @@
 #define fimdelinha endl
 
 #define principal main
+
+#define vetor vector
+
+#define raiz_quadrada sqrt
+#define raiz_cubica cbrt
+#define potencia pow
+#define seno sin
+#define cosseno cos
+#define tangente tan
+#define arcseno asin
+#define arcosseno acos
+#define arctangente atan
+#define cosseno_hiperbolico cosh
+#define seno_hiperbolico senh
+#define tangente_hiperbolica tanh
+#define arcosseno_hiperbolico acosh
+#define arcsenno_hiperbolico asenh
+#define arctangente_hiperbolica atanh

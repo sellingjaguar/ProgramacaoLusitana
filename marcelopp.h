@@ -88,10 +88,10 @@
 #define arcosseno acos
 #define arctangente atan
 #define cosseno_hiperbolico cosh
-#define seno_hiperbolico senh
+#define seno_hiperbolico sinh
 #define tangente_hiperbolica tanh
 #define arcosseno_hiperbolico acosh
-#define arcseno_hiperbolico asenh
+#define arcseno_hiperbolico asinh
 #define arctangente_hiperbolica atanh
 
 #define imprimirf printf

@@ -18,6 +18,7 @@
 #define caracter char
 #define externo extern
 #define devolve return
+#define devolver return
 #define une union
 #define constante const
 #define flutuante float
@@ -74,3 +75,24 @@
 #define fimdelinha endl
 
 #define principal main
+
+#define vetor vector
+
+#define raiz_quadrada sqrt
+#define raiz_cubica cbrt
+#define potencia pow
+#define seno sin
+#define cosseno cos
+#define tangente tan
+#define arcseno asin
+#define arcosseno acos
+#define arctangente atan
+#define cosseno_hiperbolico cosh
+#define seno_hiperbolico sinh
+#define tangente_hiperbolica tanh
+#define arcosseno_hiperbolico acosh
+#define arcseno_hiperbolico asinh
+#define arctangente_hiperbolica atanh
+
+#define imprimirf printf
+#define lerf scanf
